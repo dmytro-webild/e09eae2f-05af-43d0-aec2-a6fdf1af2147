@@ -139,7 +139,7 @@ export default function LandingPage() {
           title: "Private Events",
           subtitle: "Exclusive space",
           description: "Host your special occasions in our elegant private dining room for unmatched intimacy.",
-          imageSrc: "http://img.b2bpic.net/free-photo/senior-couple-dancing-home_23-2149891588.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/senior-couple-dancing-home_23-2149891588.jpg?_wi=1",
         },
       ]}
       title="The Art of Cuisine"
@@ -315,7 +315,7 @@ export default function LandingPage() {
       title="Common Inquiries"
       description="Everything you need to know."
       faqsAnimation="slide-up"
-      imageSrc="http://img.b2bpic.net/free-photo/senior-couple-dancing-home_23-2149891588.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/senior-couple-dancing-home_23-2149891588.jpg?_wi=2"
       imageAlt="Private dining room"
     />
   </div>
